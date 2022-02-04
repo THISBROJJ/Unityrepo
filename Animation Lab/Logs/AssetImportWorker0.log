@@ -1,0 +1,107 @@
+Using pre-set license
+Built from '2021.1/staging' branch; Version is '2021.1.7f1 (d91830b65d9b) revision 14227504'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 22000.434; Version 2009; 64bit' Language: 'en' Physical Memory: 16145 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity 2021.1.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/liana/OneDrive/Desktop/Unity Projects/Animation Lab
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+65231
+Successfully changed project path to: C:/Users/liana/OneDrive/Desktop/Unity Projects/Animation Lab
+C:/Users/liana/OneDrive/Desktop/Unity Projects/Animation Lab
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 95.85 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.7f1 (d91830b65d9b)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity 2021.1.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/liana/OneDrive/Desktop/Unity Projects/Animation Lab/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) Iris(R) Xe Graphics (ID=0x9a49)
+    Vendor:   Intel
+    VRAM:     8072 MB
+    Driver:   30.0.100.9864
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity 2021.1.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56300
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity 2021.1.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002849 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 99.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.363 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.007783 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\liana\OneDrive\Desktop\Unity Projects\Animation Lab\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\liana\OneDrive\Desktop\Unity Projects\Animation Lab\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 97.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.232 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3371 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 127.8 MB.
+System memory in use after: 127.9 MB.
+
+Unloading 28 unused Assets to reduce memory usage. Loaded Objects now: 3824.
+Total: 2.931400 ms (FindLiveObjects: 0.273400 ms CreateObjectMapping: 0.128900 ms MarkObjects: 2.399200 ms  DeleteObjects: 0.128500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets
+  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42d402b061de3733987d63b9cc3b64de') in 0.007888 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.919687 seconds.
+  path: Assets/puppet.png
+  artifactKey: Guid(603de10b698b73a4d88a252da493da7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/puppet.png using Guid(603de10b698b73a4d88a252da493da7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5ffa5d1549409e00430b27a88c38890') in 0.126573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/separated_parts_puppet.png
+  artifactKey: Guid(08b556cf306449d45a70e9c9b274b490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/separated_parts_puppet.png using Guid(08b556cf306449d45a70e9c9b274b490) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2be7878b95498f4f591250dc03f3924') in 0.015373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000388 seconds.
+  path: Assets/sprites.png
+  artifactKey: Guid(b0459e22a7859b544b5428f0c74c8ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites.png using Guid(b0459e22a7859b544b5428f0c74c8ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27bec13ff1d3125c5825ad2ada2ccb8b') in 0.013235 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 22.271630 seconds.
+  path: Assets/sprites
+  artifactKey: Guid(49a866282ca91514bb00807ac1d45e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites using Guid(49a866282ca91514bb00807ac1d45e78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c3f0b849e0d4f0f3f4546acd2024c15') in 0.003142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 180.062117 seconds.
+  path: Assets/sprites/sprites.png
+  artifactKey: Guid(b0459e22a7859b544b5428f0c74c8ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/sprites/sprites.png using Guid(b0459e22a7859b544b5428f0c74c8ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6669516c1d9c936e817c26646d5ddd0') in 0.009431 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
